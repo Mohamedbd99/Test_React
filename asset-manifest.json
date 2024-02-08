@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Mohamedbd99/Test_React.git/static/css/main.7b3f39bc.css",
-    "main.js": "/Mohamedbd99/Test_React.git/static/js/main.f499e81d.js",
-    "static/js/592.5968eae1.chunk.js": "/Mohamedbd99/Test_React.git/static/js/592.5968eae1.chunk.js",
-    "static/media/back.jpg": "/Mohamedbd99/Test_React.git/static/media/back.5bdaa7b7d7be2fec5fc2.jpg",
-    "static/media/last.png": "/Mohamedbd99/Test_React.git/static/media/last.464b33f7bbab6a230db3.png",
-    "static/media/im2.png": "/Mohamedbd99/Test_React.git/static/media/im2.35032c6d3c8cefa4f0d9.png",
-    "static/media/3.jpg": "/Mohamedbd99/Test_React.git/static/media/3.d89a1ec1557f35c7b8c1.jpg",
-    "static/media/IBMPlexSans-Bold.ttf": "/Mohamedbd99/Test_React.git/static/media/IBMPlexSans-Bold.e933eba4e2fcc3d71b31.ttf",
-    "static/media/1.jpg": "/Mohamedbd99/Test_React.git/static/media/1.e094483392c34c980c9e.jpg",
-    "static/media/2.jpg": "/Mohamedbd99/Test_React.git/static/media/2.3dd8849d7354620aeb2d.jpg",
-    "static/media/im1.png": "/Mohamedbd99/Test_React.git/static/media/im1.4552cc9867033deec73b.png",
-    "index.html": "/Mohamedbd99/Test_React.git/index.html",
-    "main.7b3f39bc.css.map": "/Mohamedbd99/Test_React.git/static/css/main.7b3f39bc.css.map",
-    "main.f499e81d.js.map": "/Mohamedbd99/Test_React.git/static/js/main.f499e81d.js.map",
-    "592.5968eae1.chunk.js.map": "/Mohamedbd99/Test_React.git/static/js/592.5968eae1.chunk.js.map"
+    "main.css": "/Test_React/static/css/main.5073e187.css",
+    "main.js": "/Test_React/static/js/main.207df237.js",
+    "static/js/592.5968eae1.chunk.js": "/Test_React/static/js/592.5968eae1.chunk.js",
+    "static/media/back.jpg": "/Test_React/static/media/back.5bdaa7b7d7be2fec5fc2.jpg",
+    "static/media/last.png": "/Test_React/static/media/last.464b33f7bbab6a230db3.png",
+    "static/media/im2.png": "/Test_React/static/media/im2.35032c6d3c8cefa4f0d9.png",
+    "static/media/3.jpg": "/Test_React/static/media/3.d89a1ec1557f35c7b8c1.jpg",
+    "static/media/IBMPlexSans-Bold.ttf": "/Test_React/static/media/IBMPlexSans-Bold.e933eba4e2fcc3d71b31.ttf",
+    "static/media/1.jpg": "/Test_React/static/media/1.e094483392c34c980c9e.jpg",
+    "static/media/2.jpg": "/Test_React/static/media/2.3dd8849d7354620aeb2d.jpg",
+    "static/media/im1.png": "/Test_React/static/media/im1.4552cc9867033deec73b.png",
+    "index.html": "/Test_React/index.html",
+    "main.5073e187.css.map": "/Test_React/static/css/main.5073e187.css.map",
+    "main.207df237.js.map": "/Test_React/static/js/main.207df237.js.map",
+    "592.5968eae1.chunk.js.map": "/Test_React/static/js/592.5968eae1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7b3f39bc.css",
-    "static/js/main.f499e81d.js"
+    "static/css/main.5073e187.css",
+    "static/js/main.207df237.js"
   ]
 }
