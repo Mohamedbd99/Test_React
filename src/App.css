@@ -1,0 +1,16 @@
+/* App.css */
+
+.centered-rectangle {
+    width: 70%;
+    height: 90%;
+    max-width: 1800px; /* Limit the maximum width */
+    max-height: 783px; /* Limit the maximum height */
+    background-color: rgb(255, 255, 255); /* Background color of the rectangle */
+    position: fixed;
+    top: 55%;
+    left: 55%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    flex-direction: column;
+    border: 0.5px solid #FF4D20;
+}

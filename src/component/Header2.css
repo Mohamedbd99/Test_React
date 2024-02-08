@@ -1,0 +1,38 @@
+
+.header2-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #FF4D20;
+    font-weight: bold; 
+
+}
+.composant {
+    display: flex; 
+  }
+  
+  .composant p {
+    margin-left: 20px;
+
+    margin-right: 20px;
+  }
+  
+
+  
+  .images-container {
+    display: flex;
+    margin-right: 20px;
+    z-index: 999;
+  }
+  
+  .images-container img {
+    margin-left: 10px; 
+    z-index: 999;
+
+  }
+  
